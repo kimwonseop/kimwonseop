@@ -2,7 +2,7 @@
 **- 🔭 I’m currently working on Maromav**
 
 
-### Tech Stack
+### Stack
  - Unity 
  - Flutter 
  - C/C++
