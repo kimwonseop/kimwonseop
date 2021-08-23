@@ -1,7 +1,12 @@
 ### Hi there 👋
 **- 🔭 I’m currently working on Maromav**
 
-**- 🌱 I’m currently learning Unity, Flutter**
+
+### Tech Stack
+ - Unity 
+ - C# 
+ - Flutter 
+ - Dart
 
 <!--
 **kimwonseop/kimwonseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
