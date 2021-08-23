@@ -4,9 +4,8 @@
 
 ### Tech Stack
  - Unity 
- - C# 
  - Flutter 
- - Dart
+ - C/C++
 
 <!--
 **kimwonseop/kimwonseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
