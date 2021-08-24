@@ -6,6 +6,8 @@
  - Unity 
  - Flutter 
  - C/C++
+<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **kimwonseop/kimwonseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
