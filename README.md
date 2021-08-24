@@ -3,10 +3,11 @@
 
 
 ### Texch Stack
- - Unity 
- - Flutter 
- - C/C++
-<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=CSharp&logoColor=purple"/></a>&nbsp
+<img src="https://img.shields.io/badge/Unity-3766AB?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=blue"/></a>&nbsp
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=blue"/></a>&nbsp
+ 
 
 
 <!--
