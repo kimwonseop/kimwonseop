@@ -1,6 +1,6 @@
 ### Hi there 👋
 **- 🔭 I’m currently working on Maromav**
-
+**- 🌱 I’m currently learning Unity, C#, Flutter**
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
