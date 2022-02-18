@@ -1,5 +1,4 @@
 ### Hi there 👋
-<table><tr><td valign="top" width="33%">
 **- 🔭 I’m currently working on Maromav**
           
 **- 🌱 I’m currently learning Unity, C#**
