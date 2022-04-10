@@ -1,7 +1,7 @@
 ### Hi there 👋
 **- 🔭 I’m currently working on Maromav**
           
-**- 🌱 I’m currently learning Unity, C#**
+**- 🌱 I’m currently learning Unity and C#**
 
    <br/>  
    
