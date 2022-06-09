@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=40&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=35&descAlignY=50"/>
 
-### Hi there 👋👋👋
-**- 🔭 I’m currently working on Maromav**
-          
-**- 🌱 I’m currently learning Unity and C#** 
+<div align="center">    
+<h2> Introduction  </h2>
+I’m currently working on Maromav
+<br/> 
+I’m currently learning Unity and C#
+</div>
+
 <br/>  
-   
-### My Skill Set  
-
-<div align="left">  
+<div align="center">    
+<h2> My Skill Set  </h2>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -27,4 +28,4 @@
 </a>          
 </div> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
