@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=35&descAlignY=50"/>
 
   
-<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&width=100%"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true" width=100%/>
   
 <h3> Introduction  </h3>
 <h4>
