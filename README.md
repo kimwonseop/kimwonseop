@@ -1,12 +1,14 @@
+<div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=35&descAlignY=50"/>
 
-<div align="center">    
+  
 <h2> Introduction  </h2>
+<h4>
 I’m currently working on Maromav
-<br/> 
 I’m currently learning Unity and C#
-</div>
-
+</h4>
+  
+  
 <br/>  
 <div align="center">    
 <h2> My Skill Set  </h2>
