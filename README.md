@@ -2,15 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=35&descAlignY=50"/>
 
   
-<h2> Introduction  </h2>
+<h3> Introduction  </h3>
 <h4>
 I’m currently working on Maromav<br/>  
 I’m currently learning Unity and C#
 </h4>
   
 <br/>  
+  
 <div align="center">    
-<h2> My Skill Set  </h2>
+<h3> My Skill Set  </h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -19,8 +20,8 @@ I’m currently learning Unity and C#
 
 <br/>  
 <br/>  
-<h2> Contect With Me </h2>
-
+  
+<h3> Contect With Me </h3>
 <a href="https://github.com/kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
