@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonseop%20Kim&fontSize=50&desc=Unity%20Developer&fontAlignY=35&descAlignY=50"/>
 
   
-<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true" width=100%/>
+
   
 <h3> Introduction  </h3>
 <h4>
@@ -30,6 +30,12 @@ I’m currently learning Unity and C#
 <a href="https://velog.io/@kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>          
+<br/>  
+<br/>   
+<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true" />  
+<br/>   
+<br/>   
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonseop&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats"/>
 </div> 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
