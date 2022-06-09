@@ -4,10 +4,9 @@
   
 <h3> Introduction  </h3>
 <h4>
-I’m currently working on Maromav
+I’m currently working on Maromav<br/>  
 I’m currently learning Unity and C#
 </h4>
-  
   
 <br/>  
 <div align="center">    
@@ -17,11 +16,11 @@ I’m currently learning Unity and C#
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-</div>
+
 <br/>  
- 
-  <h3> Contect With Me </h3>
-<div align="left">
+<br/>  
+<h3> Contect With Me </h3>
+
 <a href="https://github.com/kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
