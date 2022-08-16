@@ -28,12 +28,13 @@ I’m currently learning Unity and C#
 <a href="https://velog.io/@kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>          
-<br/>  
+<br/>
+<!--
 <br/>   
 <img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true"/>  
 <br/>   
 <br/>   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonseop&layout=compact&theme=buefy&hide=javascript,html"/>
 </div> 
-
+-->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
