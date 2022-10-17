@@ -4,8 +4,8 @@
   
 <h3> Introduction  </h3>
 <h4>
-I’m currently working on Maromav<br/>  
-I’m currently learning Unity and C#.  
+I pursue to grow steadily.<br> 
+I enjoy acquiring and learning various skills.
 </h4>
   
 <br/>  
