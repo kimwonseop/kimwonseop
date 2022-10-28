@@ -25,7 +25,10 @@ I enjoy acquiring and learning various skills.
 </a>
 <a href="https://velog.io/@kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>          
+</a>
+<!-- <a href="[https://velog.io/@kimwonseop](https://plaid-puma-f7c.notion.site/Unity-9e235838173e4acf87d2d45ebcca4074)" target="_blank">
+<img src=https://img.shields.io/badge/Notion-20C997.svg?&style=for-the-badge&logo=notion&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>    -->
 <br/>
 
 <br/>   
