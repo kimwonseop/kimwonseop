@@ -8,7 +8,6 @@ I enjoy acquiring and learning various skills.
 </h4>
   
 <br/>  
-  
 <div align="center">    
 <h3> My Skill Set  </h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
