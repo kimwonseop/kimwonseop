@@ -4,7 +4,7 @@
 <h3> Introduction  </h3>
 <h4>
 I pursue to grow steadily.<br> 
-I enjoy acquiring and learning various skills.
+I enjoy acquiring and learning various skills. 
 </h4>
   
 <br/>  
