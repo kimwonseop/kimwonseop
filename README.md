@@ -23,7 +23,10 @@ I enjoy acquiring and learning various skills.
 <a href="https://velog.io/@kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<br/><br/>  
+<a href="https://wonseop-develop.notion.site/68d039340d3d43e894d0656a8c93162d" target="_blank">
+<img src=https://img.shields.io/badge/notion-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<br><br/>  
   
 <!-- <h3> Resume </h3>  
 <a href="https://plaid-puma-f7c.notion.site/Unity-9e235838173e4acf87d2d45ebcca4074" target="_blank">
