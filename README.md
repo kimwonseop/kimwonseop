@@ -7,7 +7,7 @@ I pursue to grow steadily.<br>
 I enjoy acquiring and learning various skills. 
 </h4>
   
-<br/>  
+<br/> 
 <div align="center">    
 <h3> Skills</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -31,7 +31,7 @@ I enjoy acquiring and learning various skills.
   
 <!-- <h3> Resume </h3>  
 <a href="https://plaid-puma-f7c.notion.site/Unity-9e235838173e4acf87d2d45ebcca4074" target="_blank">
-<img src=https://img.shields.io/badge/KOR-000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/KOR-000000.svg?&style=for-the-badge&logo=notion&logoColor=white a=devto style="margin-bottom: 5px;" />
 </a> 
 <a href="https://plaid-puma-f7c.notion.site/Wonseop-Kim-Unity-developer-afc7ae883e4644258ef1433c870b0204" target="_blank">
 <img src=https://img.shields.io/badge/ENG-000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=devto style="margin-bottom: 5px;" />
