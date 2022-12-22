@@ -26,7 +26,7 @@ I enjoy acquiring and learning various skills.
 <a href="https://wonseop-develop.notion.site/68d039340d3d43e894d0656a8c93162d" target="_blank">
 <img src=https://img.shields.io/badge/Notion-%2324292e.svg?&style=for-the-badge&logo=notion&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  <a href="www.linkedin.com/in/wonseop-kim" target="_blank">
+  <a href="https://linkedin.com/in/wonseop-kim" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <br><br/>  
