@@ -3,8 +3,7 @@
 
 <h3> Introduction  </h3>
 <h4>
-I pursue to grow steadily.<br> 
-I enjoy acquiring and learning various skills. 
+Unity Client Engineer
 </h4>
   
 <br/> 
