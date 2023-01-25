@@ -40,10 +40,10 @@ Unity Client Engineer
 </a>
 <br/><br/>    -->
   
-<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true"/>  
+<!-- <img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true"/>  
 <br/><br/>   
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonseop&layout=compact&theme=buefy&hide=javascript,html"/>
-</div> 
+</div>  -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
