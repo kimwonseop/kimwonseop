@@ -22,11 +22,14 @@ Unity Client Engineer
 <a href="https://velog.io/@kimwonseop" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+    <a href="https://linkedin.com/in/wonseop-kim" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://wonseop-develop.notion.site/68d039340d3d43e894d0656a8c93162d" target="_blank">
 <img src=https://img.shields.io/badge/Notion-%2324292e.svg?&style=for-the-badge&logo=notion&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  <a href="https://linkedin.com/in/wonseop-kim" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://one-kws.tistory.com/" target="_blank">
+<img src=https://img.shields.io/badge/Tistory-FBE300.svg?&style=for-the-badge&logo=tistory&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>
 <br><br/>  
 
@@ -40,10 +43,10 @@ Unity Client Engineer
 </a>
 <br/><br/>    -->
   
-<!-- <img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true"/>  
+<img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true"/>  
 <br/><br/>   
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonseop&layout=compact&theme=buefy&hide=javascript,html"/>
-</div>  -->
+</div> 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
