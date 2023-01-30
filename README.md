@@ -30,7 +30,7 @@ Unity Client Engineer
 </a>
   <a href="https://one-kws.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-FBE300.svg?&style=for-the-badge&logo=tistory&logoColor=black alt=github style="margin-bottom: 5px;" />
-</a>
+</a> 
 <br><br/>  
 
   
