@@ -42,11 +42,14 @@ Unity Client Engineer
 <img src=https://img.shields.io/badge/ENG-000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <br/><br/>    -->
-  
+
+<!-- 
 <img src ="https://github-readme-stats.vercel.app/api?username=kimwonseop&theme=buefy&show_icons=true&count_private=true&include_all_commits=true&hide=prs"/>  
 <br/><br/>   
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonseop&layout=compact&theme=buefy&hide=javascript,html"/>
 </div> 
+-->
+
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> -->
